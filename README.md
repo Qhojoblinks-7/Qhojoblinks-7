@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Qhojoblinks-7
+- 👋 Hi, I’m Immanuel Eshun Quansah 
 - 👀 I’m interested in everthing related to science, health and programming.
 - 🌱 I’m currently learning software engineering at ALX
-- 💞️ I’m looking to collaborate on projets related to health
+- 💞️ I’m looking forward to collaborate on projects related to health and education.
 - 📫 How to reach me on tweeter @qhojoblinks1
 
 <!---
