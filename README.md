@@ -2,7 +2,7 @@
 
 💻 I’m a **Software Developer, Junior Graphic Designer, and UI/UX Enthusiast** with a passion for creating digital solutions that address real-world challenges. I enjoy combining **creativity and technology** to build impactful platforms.
 
-🎓 I studied **Pure Science** at **Mando Senior High Technical School (2018–2022)** and I’m currently pursuing an **HND in Computer Science** at **Accra Technical University**. Alongside my studies, I’m also advancing my skills in **backend development with Python/Django** and **software engineering** through **ALX**.
+🎓 I studied **Pure Science** at **Mando Senior High Technical School (2018–2021)** and I’m currently pursuing an **HND in Computer Science** at **Accra Technical University**. Alongside my studies, I’m also advancing my skills in **backend development with Python/Django** and **software engineering** through **ALX**.
 
 🚀 **Key Experiences & Projects:**
 
